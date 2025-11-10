@@ -22,7 +22,7 @@ I'm a Computer Science Specialist at the University of Toronto (CGPA 3.98) with 
 - Learning more about TypeScript
 
 ## ⚡ Fun fact:
-- I do bodybuilding, calistenics and powerlifting (My total SBD is 1115lbs)
+- I do bodybuilding, calisthenics and powerlifting (My total SBD is 1115lbs)
 - I used to be pretty good at math, and I was doing math olympiads. In fact I placed top 6 in the country in my last competetion! (I couldn't do the final round as I moved to canada)
 - I love watching movies, series and animes! (Feel free to give me suggestions:)
 
