@@ -10,7 +10,7 @@
 </p>
 
 ## 💫 About Me:
-I'm a Computer Science Specialist at the University of Toronto (CGPA 3.98) with a strong foundation in algorithms, machine learning, and software engineering. I've built projects ranging from reinforcement learning chess engines and ML-based fitness trackers to asynchronous multiplayer servers. I enjoy solving complex problems, designing scalable systems, and applying AI/ML to real-world challenges.
+I'm a Computer Science Specialist at the University of Toronto with a strong foundation in algorithms, machine learning, and software engineering. I've built projects ranging from reinforcement learning chess engines and ML-based fitness trackers to asynchronous multiplayer servers. I enjoy solving complex problems, designing scalable systems, and applying AI/ML to real-world challenges.
 
 ## 💻 Skills:
 ### Programming languages:
