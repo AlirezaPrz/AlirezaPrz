@@ -22,9 +22,9 @@ I'm a Computer Science Specialist at the University of Toronto with a strong fou
 
 ## 📚 Currently Working on:
 - Looking for Co-op Winter 2026
-- Learning AWS
+- Learning Cloud
 - Learning more about AI Agents
-- Learning more about TypeScript
+- Learning TypeScript
 
 ## ⚡ Fun fact:
 - I do bodybuilding, calisthenics and powerlifting (My total SBD is 1115lbs)
