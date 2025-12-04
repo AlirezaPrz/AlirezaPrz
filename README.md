@@ -21,15 +21,15 @@ I'm a Computer Science Specialist at the University of Toronto with a strong fou
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 
 ## 📚 Currently Working on:
-- Looking for Co-op Winter 2026
 - Learning Cloud
-- Learning more about AI Agents
-- Learning TypeScript
+- Reworking some of my projects
+- looking for fall 2026 co-op
+- Learning Docker
 
 ## ⚡ Fun fact:
-- I do bodybuilding, calisthenics and powerlifting (My total SBD is 1115lbs)
-- I used to be pretty good at math, and I was doing math olympiads in high school. In fact I placed top 6 in the country in my last competetion!
-- I love watching movies, series and animes! (Feel free to give me suggestions:)
+- I do bodybuilding, callisthenics and powerlifting (My total SBD is 1115lbs)
+- I used to be pretty good at math, and I was doing math olympiads in high school. In fact, I placed top 6 in the country in my last competition!
+- I love watching movies, series and anime! (Feel free to give me suggestions:)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AlirezaPrz&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
