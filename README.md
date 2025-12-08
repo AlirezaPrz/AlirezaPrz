@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Alireza Pourreza 👋</h1>
 <p align="center">
-  UofT CS '28 • GDG UTSC Academic Director • ML/AI
+  Software Developer @ Ontario Public Service • UofT CS '28 • Academic Director @ GDG UTSC
 </p>
 
 <p align="center">
