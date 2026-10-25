@@ -4,7 +4,7 @@ I'm a Computer Science student at the University of Toronto who enjoys building 
 
 ### 🔭 What I'm working on right now
 - 🧑‍🏫 TAing Calculus I and Intro to Theory of Computation at UofT
-- ⚔️ Building the CREATE Code Clash competition with CREATE UofT
+- ⚔️ Building the Code Clash competition with CREATE UofT
 - 🎉 Planning events for the UTSC math & CS community with AMACSS
 - 🤖 Running workshops and codelabs as Academics Director at GDG UTSC
 
